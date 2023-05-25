@@ -1,0 +1,23 @@
+{
+  "name": "alpha-replace-package",
+  "version": "1.0.0",
+  "description": "It replaces letters with their numeric look-alike. Something for me to learn how to make npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuxiMatei/alpha-replace-package.git"
+  },
+  "keywords": [
+    "NPM",
+    "tutorial"
+  ],
+  "author": "Ruxandra Matei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuxiMatei/alpha-replace-package/issues"
+  },
+  "homepage": "https://github.com/RuxiMatei/alpha-replace-package#readme"
+}
